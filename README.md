@@ -11,6 +11,6 @@ Aim
 To visualize this data in Tableau
 
 Skills Demonstrated
-Working with large, multi-sheet relational datasets and their format limitations
-Geospatial visualization and troubleshooting geocoding in Tableau
+Working with large, multi-sheet relational datasets and their format limitations.
+Geospatial visualization and troubleshooting geocoding in Tableau.
 Dashboard design for exploratory, multi-dimensional data (location, price, time, reviews)
